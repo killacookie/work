@@ -1,0 +1,280 @@
+{
+    "lootSets": [
+        {
+            "name": "Small Raid",
+            "items": [
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Medium Raid",
+            "items": [
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Big Raid",
+            "items": [
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingCharge",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingChargeHeavy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "HDSN_BreachingChargeHeavy",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Sniper Pack",
+            "items": [
+                {
+                    "name": "SNAFUAX50_GUN",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFUAX50_Mag",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "GhillieAtt_Mossy",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_ModBipod",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_50bmg_Suppressor_B",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "SNAFU_Leupold_Mark8",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "SNAFUAX50_Mag",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Cannabis Loot",
+            "items": [
+                {
+                    "name": "CP_CannabisBrickFuture",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "DP_CocaSeedsPack",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_PlasticRoll",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_CannabisSeedsPackBlackFrost",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_CannabisSeedsPackStardawg",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Soldier Pack",
+            "items": [
+                {
+                    "name": "Snafu_ScarH_Black_GUN",
+                    "quantity": -1,
+                    "attachments": [
+                        {
+                            "name": "SNAFU_ScarH_100RND_Mag_Black",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        },
+                        {
+                            "name": "GhillieAtt_Woodland",
+                            "quantity": -1,
+                            "attachments": [],
+                            "cargo": []
+                        }
+                    ],
+                    "cargo": []
+                },
+                {
+                    "name": "Ssh68Helmet",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "USMCJacket_Woodland",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "USMCPants_Woodland",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "MilitaryBelt",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "MilitaryBoots_Black",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "AssaultBag_Ttsko",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "Seeds Packs",
+            "items": [
+                {
+                    "name": "CP_CannabisSeedsPackSkunk",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_CannabisSeedsPackBlue",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_CannabisSeedsPackKush",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "CP_CannabisSeedsPackFuture",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        },
+        {
+            "name": "BBP",
+            "items": [
+                {
+                    "name": "BBP_Cement",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "BBP_Cement",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                },
+                {
+                    "name": "NailBox",
+                    "quantity": -1,
+                    "attachments": [],
+                    "cargo": []
+                }
+            ]
+        }
+    ]
+}
